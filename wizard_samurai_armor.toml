@@ -1,0 +1,13 @@
+#Additional values for wizard_samurai_armor_values
+#[feet, legs, chest, head]
+wizard_samurai_armor_values = [5, 8, 11, 6]
+#Additional values for ignis_samurai_armor_values
+#[feet, legs, chest, head]
+ignis_samurai_armor_values = [6, 9, 12, 7]
+#Additional values for sculk_wizard_samurai_armor_values
+#[feet, legs, chest, head]
+sculk_wizard_samurai_armor_values = [3, 6, 8, 3]
+#Additional values for amethyst_wizard_samurai_armor_values
+#[feet, legs, chest, head]
+amethyst_wizard_samurai_armor_values = [2, 5, 7, 2]
+

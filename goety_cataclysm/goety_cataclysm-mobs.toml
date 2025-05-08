@@ -1,0 +1,11 @@
+
+[Servants]
+
+	[Servants."Nether Servants"]
+		#Whether owned Ignited Revenants drop Ignited Helms, Default: true
+		ignitedRevenantHelm = true
+		#Whether owned Ignited Berserkers drop Ignited Souls, Default: true
+		ignitedBerserkerSoul = true
+		#Whether Netherite Monstrosity, owned by players, breaks blocks if mob griefing is enabled, Default: false
+		netheriteMonstrosityGriefing = false
+
